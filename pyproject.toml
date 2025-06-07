@@ -6,7 +6,7 @@ authors = [
     {name = "Dikshitharyana",email = "dikshitkumar951@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.10,<3.13"
+requires-python = ">=3.10"
 dependencies = [
     "notebook (>=7.4.3,<8.0.0)",
     "ipykernel (>=6.29.5,<7.0.0)",
