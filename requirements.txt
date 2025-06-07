@@ -89,6 +89,7 @@ jupyterlab-server==2.27.3 ; python_version >= "3.10" and python_version < "3.13"
 jupyterlab-widgets==3.0.15 ; python_version >= "3.10" and python_version < "3.13"
 jupyterlab==4.4.3 ; python_version >= "3.10" and python_version < "3.13"
 kubernetes==32.0.1 ; python_version >= "3.10" and python_version < "3.13"
+pysqlite3-binary
 langchain-chroma==0.2.4 ; 
 langchain-community==0.3.24 ; 
 langchain-core==0.3.64 ; 
